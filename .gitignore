@@ -28,3 +28,4 @@ ENV/
 # IDEs
 .vscode/
 .idea/
+.env
